@@ -1,0 +1,25 @@
+1.1. Tìm một số trong một mảng bằng lính canh
+
+1.2. Tìm một số trong một mảng đã có thứ tự (tìm nhị phân).
+
+1.8. Cho ma trận A kích thước MxN (0<M,N<100) chứa các số thực nhỏ hơn
+100000. Một điểm Xi,j được gọi là điểm lồi nếu như nó lớn hơn cả 4 điểm trên, dưới,
+trái, phải của nó.
+Yêu cầu: Tìm Xmin là điểm lồi có giá trị nhỏ nhất của mảng.
+Dữ liệu vào: Được nhập từ bàn phím có cấu trúc như sau:
++ Dòng đầu tiên là hai số nguyên dương M, N biểu diễn kích thước của ma
+trận A (M dòng, N cột).
++ M dòng tiếp theo, mỗi dòng là N số thực (mỗi số cách nhau ít nhất một
+khoảng trắng) lần lượt là N phần tử của từng dòng tương ứng của ma trận.
+Dữ liệu ra: Xuất ra màn hình một dòng duy nhất gồm 2 số nguyên I, J lần lượt
+là chỉ số dòng và cột của Xmin đầu tiên từ trên xuống và từ trái qua phải. Nếu
+không có điểm lồi nào thì xuất ra là -1.
+Ví dụ:
+Dữ liệu vào Dữ liệu ra
+3 4 1 2
+3 9 5 6
+4 6 8 7
+8 11 7 10
+
+1.10. Nhập vào d, m, y, kiểm tra (d,m,y) có lập thành một ngày tháng năm hay
+không, nếu có xuất ra ngày tiếp theo.

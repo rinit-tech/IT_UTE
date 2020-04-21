@@ -1,0 +1,1 @@
+Các bạn làm và nộp 4 bài tập được đánh số 1 (Phân số), 4 (Ngày) , 5 (Mảng phân số), 6 (Mảng điểm) ở cuối video bài giảng chương 1 - Phần kiểu dữ liệu có cấu trúc.

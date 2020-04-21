@@ -1,0 +1,13 @@
+Bài 1: Viết chương trình tạo một mảng các phân số. Hãy viết hàm thực hiện các công việc sau: 
+
+a) Tính tổng tất cả các phân số (kết quả dưới dạng phân số tối giản) 
+
+b) Tìm phân số lớn nhất, phân số nhỏ nhất. 
+
+c) Sắp xếp mảng tăng dần.
+
+Bài 2: Nhập vào số nguyên n, xuất ra tất cả các số từ 0 đến n dưới dạng số nhị phân.
+
+Bài 3: Nhập vào 2 số nguyên dương, mỗi số có tối đa 300 chữ số. Xuất ra tổng 2 số nguyên vừa nhập.
+
+Bài 4: Làm bài tập 6, bài tập chương 3

@@ -1,0 +1,6 @@
+8. Viết chương trình kiểm tra một chuỗi có đối xứng không?
+9. Viết chương trình nhập vào ma trận A[M][N], hãy xuất ra màn hình các phần tử
+A[i][j] sao cho A[i][j] là phần tử có giá trị lớn nhất dòng i và nhỏ nhất cột j.
+10. Sinh tất cả các dãy nhị phân có độ dài n.
+11. Sinh tất cả tập con của tập n phần tử.
+12. Sinh tất cả hoán vị của tập n phần tử.
